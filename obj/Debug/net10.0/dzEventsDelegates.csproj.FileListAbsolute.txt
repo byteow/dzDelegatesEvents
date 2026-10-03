@@ -1,0 +1,14 @@
+C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\bin\Debug\net10.0\dzEventsDelegates.exe
+C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\bin\Debug\net10.0\dzEventsDelegates.deps.json
+C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\bin\Debug\net10.0\dzEventsDelegates.runtimeconfig.json
+C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\bin\Debug\net10.0\dzEventsDelegates.dll
+C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\bin\Debug\net10.0\dzEventsDelegates.pdb
+C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\obj\Debug\net10.0\dzEventsDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\obj\Debug\net10.0\dzEventsDelegates.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\obj\Debug\net10.0\dzEventsDelegates.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\obj\Debug\net10.0\dzEventsDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\obj\Debug\net10.0\dzEventsDelegates.dll
+C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\obj\Debug\net10.0\refint\dzEventsDelegates.dll
+C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\obj\Debug\net10.0\dzEventsDelegates.pdb
+C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\obj\Debug\net10.0\dzEventsDelegates.genruntimeconfig.cache
+C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\obj\Debug\net10.0\ref\dzEventsDelegates.dll
