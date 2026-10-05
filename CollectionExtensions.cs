@@ -9,6 +9,9 @@ public static class CollectionExtensions
         Func<T, float> convertToNumber)
         where T : class
     {
+        ArgumentNullException.ThrowIfNull(collection);
+        ArgumentNullException.ThrowIfNull(convertToNumber);
+
         T maxElement = null;
         float maxValue = float.MinValue;
 

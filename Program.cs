@@ -27,8 +27,8 @@ class Program
         FileSearcher searcher = new();
 
         searcher.FileFound += OnFileFound;
-
-        searcher.Search(@"C:\Test");
+        searcher.Search(Environment.CurrentDirectory);
+        searcher.FileFound -= OnFileFound;
 
         Console.WriteLine("Программа завершена.");
     }
@@ -40,7 +40,7 @@ class Program
         if (e.FileName.Contains("stop.txt"))
         {
             ((FileSearcher)sender).Cancel = true;
-            Console.WriteLine("Поиск остановлен.");
+            Console.WriteLine("Выполнено условие для отмены дальнейшего поиска");
         }
     }
 }

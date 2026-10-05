@@ -12,3 +12,4 @@ C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\obj\Debug\net10.0\refint\dzEv
 C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\obj\Debug\net10.0\dzEventsDelegates.pdb
 C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\obj\Debug\net10.0\dzEventsDelegates.genruntimeconfig.cache
 C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\obj\Debug\net10.0\ref\dzEventsDelegates.dll
+C:\Users\Кирилл\Desktop\c#\dzEventsDelegates\obj\Debug\net10.0\dzEventsDelegates.sourcelink.json
